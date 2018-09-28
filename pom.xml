@@ -4,7 +4,7 @@
 
 	<groupId>de.seyfried.devops</groupId>
 	<artifactId>devops</artifactId>
-	<version>1.0.7-SNAPSHOT</version>
+	<version>1.0.7</version>
 	<packaging>war</packaging>
 
 	<name>devops</name>
@@ -40,7 +40,7 @@
 		<connection>scm:git:git@github.com:mseyfried/devops.git</connection>
 		<developerConnection>scm:git:git@github.com:mseyfried/devops.git</developerConnection>
 		<url>git@github.com:mseyfried/devops.git</url>
-		<tag>v1.0.2</tag>
+		<tag>v1.0.7</tag>
 	</scm>
 
 	<dependencies>
